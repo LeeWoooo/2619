@@ -17,6 +17,7 @@ public class CustomerControllerImpl2 implements CustomerInterface {
 	@Override
 	public String signIn() {
 		String test = "test";
+		test = "안녕하세요.";
 		return null;
 	}
 
